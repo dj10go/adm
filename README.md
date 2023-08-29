@@ -259,7 +259,7 @@ case "$x" in
    22)
    clear
    wget -O /bin/menu https://www.dropbox.com/s/gc2uefouqz1wjj3/criarusuario &> /dev/null
-   echo -ne "\n\033[1;31mArchivo de crear user  \033[1;33mActualizado correctamente   \033[1;32m enter para volver al MENU!\033[0m"; read
+   echo -ne "\n\033[1;31mArchivo de crear user  \033[1;33mActualizado correctamente   \033[1;32m enter Para volver al MENU!\033[0m"; read
    menu2
    ;;
    23)
